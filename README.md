@@ -1,6 +1,6 @@
 # Programming in Java Lab
 
-Welcome to the **Programming with Java Lab** repository! This repository contains all the assignments and exercises completed as part of the Java lab course at Symbiosis International (Deemed University). These assignments cover a variety of Object-Oriented Programming (OOP) concepts and their practical implementation in Java.
+Welcome to the **Programming in Java Lab** repository! This repository contains all the assignments and exercises completed as part of the Java lab course at Symbiosis International (Deemed University). These assignments cover a variety of Object-Oriented Programming (OOP) concepts and their practical implementation in Java.
 
 ## Course Overview
 
@@ -17,12 +17,12 @@ Welcome to the **Programming with Java Lab** repository! This repository contain
 
 | #   | Assignment Description                                                                                                                                                      | Topics Covered                                                                 |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1   | Implement input methods using command line args, Scanner, BufferedReader, etc.                                                                                             | Input Methods                                                                 |
-| 2   | Develop a menu-driven calculator with operations like add, subtract, mean, variance, and more.                                                                             | Calculator Class, Methods                                                     |
-| 3   | Write programs to classify numbers as even or odd, find neighboring numbers with the smallest distance, and convert arrays to ArrayLists.                                   | Array Operations                                                              |
-| 4   | Create a Student class and perform CRUD operations on an array of objects.                                                                                                 | Classes, Constructors, Object Arrays                                          |
-| 5   | Represent a deck of cards as an array of objects.                                                                                                                          | Arrays, Object Representation                                                 |
-| 6   | Implement an abstract class for shapes and create concrete subclasses for circle, triangle, and rectangle.                                                                 | Abstract Classes, Interfaces, Dynamic Method Dispatch                         |
+| 1   | Implement input methods using command line args, Scanner, BufferedReader, etc., and develop a menu-driven calculator with operations like add, subtract, mean, variance, and more. | Input Methods, Calculator Class, Methods                                      |
+| 2   | Write programs to classify numbers as even or odd, find neighboring numbers with the smallest distance, and convert arrays to ArrayLists.                                   | Array Operations                                                              |
+| 3   | Create a Student class and perform CRUD operations on an array of objects.                                                                                                 | Classes, Constructors, Object Arrays                                          |
+| 4   | Represent a deck of cards as an array of objects.                                                                                                                          | Arrays, Object Representation                                                 |
+| 5   | Implement an abstract class for shapes and create concrete subclasses for circle, triangle, and rectangle.                                                                 | Abstract Classes, Interfaces, Dynamic Method Dispatch                         |
+| 6   | Implement a user-defined package `pkg_Stack` to define an interface and create two classes for fixed and growable integer stacks. Demonstrate multiple inheritance using interfaces. | User-Defined Packages, Interfaces, Multiple Inheritance                       |
 | 7   | Add, subtract, multiply, divide, and compare rational numbers with exception handling.                                                                                     | Rational Numbers, Exception Handling                                          |
 | 8   | Create custom exceptions for validation and specific conditions.                                                                                                           | Custom Exceptions                                                             |
 | 9   | Demonstrate database connectivity in Java.                                                                                                                                 | Database Connectivity                                                         |
@@ -39,7 +39,7 @@ Welcome to the **Programming with Java Lab** repository! This repository contain
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/java-lab.git
+   git clone https://github.com/your-username/Java_Assignments.git
    ```
 2. Navigate to the desired assignment folder.
 3. Follow the instructions in the assignment folder to run the program.
