@@ -9,8 +9,6 @@ A **simple Java-based calculator** application capable of performing a variety o
 - [Structure](#structure)
 - [Getting Started](#getting-started)
 - [Example Operations](#example-operations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -59,10 +57,7 @@ The project contains the following files:
 
 Follow these steps to run the project on your system:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Calculator.git
-   ```
+1. Clone or download this repository.
 2. Navigate to the project directory:
    ```bash
    cd Calculator
@@ -104,25 +99,3 @@ Follow these steps to run the project on your system:
 
 - Input: `Enter the size of the array: 5` `Enter the numbers: 1, 2, 2, 3, 4`
 - Output: `Mode = 2`
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push the branch.
-4. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Feel free to report any issues or suggest enhancements. Happy coding!
-
